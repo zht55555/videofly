@@ -46,7 +46,7 @@
 
 ```bash
 # 克隆仓库（使用模板仓库）
-git clone https://github.com/zifeixu85/videofly-template.git your-project
+git clone https://github.com/zht55555/videofly.git your-project
 cd your-project
 
 # 安装依赖
